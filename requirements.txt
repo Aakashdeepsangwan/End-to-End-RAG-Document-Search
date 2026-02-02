@@ -10,3 +10,5 @@ beautifulsoup4
 requests
 streamlit
 wikipedia
+langchain-anthropic
+langchain-huggingface
